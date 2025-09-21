@@ -15,7 +15,6 @@ This repository is a comprehensive collection of everything related to **cryptog
 
 ## 📌 Table of Contents
 
-- [🎯 Objective](#-objective)
 - [📚 Books (PDF)](#-books-pdf)
 - [🧠 Notes and Summaries](#-notes-and-summaries)
 - [💻 Algorithm Implementations](#-algorithm-implementations)
@@ -33,7 +32,7 @@ This repository is a comprehensive collection of everything related to **cryptog
 
 ---
 
-## 📚 Recommended Books
+## 📚 Books PDF
 
 ### 🧱 Foundations & Classics
 - *Applied Cryptography* – Bruce Schneier  
