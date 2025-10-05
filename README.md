@@ -1,4 +1,5 @@
 # 🔐 Cryptography
+
 <p align="left">
   <img src="https://img.shields.io/badge/status-active-success" alt="Status" />
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License" />
@@ -18,16 +19,9 @@ This repository is a comprehensive collection of everything related to **cryptog
 - [📚 Books (PDF)](#-books-pdf)
 - [🧠 Notes and Summaries](#-notes-and-summaries)
 - [💻 Algorithm Implementations](#-algorithm-implementations)
-- [📜 Papers and Articles](#-papers-and-articles)
-- [📺 Courses and Video Resources](#-courses-and-video-resources)
 - [🧮 Math Behind Cryptography](#-math-behind-cryptography)
-- [📦 Libraries and Tools](#-libraries-and-tools)
-- [🧩 Mini Projects and Demos](#-mini-projects-and-demos)
-- [🕹️ Challenges and Exercises](#️-challenges-and-exercises)
 - [🌍 Real-World Applications](#-real-world-applications)
-- [📊 Diagrams and Infographics](#-diagrams-and-infographics)
 - [🤝 Contribution Guidelines](#-contribution-guidelines)
-- [📄 License](#-license)
 - [📬 Contact](#-contact)
 
 ---
