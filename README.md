@@ -2,14 +2,6 @@
 
 # 🔐 Cryptography
 
-<p align="left">
-  <img src="https://img.shields.io/badge/status-active-success" alt="Status" />
-  <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License" />
-  <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome" />
-  <img src="https://img.shields.io/badge/made%20with-Markdown-1f425f.svg" alt="Markdown" />
-  <img src="https://img.shields.io/badge/content-books%2C%20code%2C%20math-critical" alt="Content" />
-  <img src="https://img.shields.io/badge/focus-cryptography-informational" alt="Focus" />
-</p>
 
 This repository is a comprehensive collection of everything related to **cryptography** — including books (in PDF), notes, algorithm implementations, academic papers, video courses, real-world applications, and much more. Designed for students, developers, and cybersecurity enthusiasts.
 > 📁 **Note:** All listed books are included in the repository in PDF format for educational purposes only.
