@@ -1,7 +1,6 @@
 
 
 
-
 # 🔐 Cryptography
 
 <p align="left">
