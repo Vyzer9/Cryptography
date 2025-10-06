@@ -1,18 +1,5 @@
 
 
-# 🔐 Cryptography
-
-
-This repository is a comprehensive collection of everything related to **cryptography** — including books (in PDF), notes, algorithm implementations, academic papers, video courses, real-world applications, and much more. Designed for students, developers, and cybersecurity enthusiasts.
-> 📁 **Note:** All listed books are included in the repository in PDF format for educational purposes only.
-
-
-
-
-
-
-
-
 
 # 🔐 Cryptography
 
