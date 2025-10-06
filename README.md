@@ -1,7 +1,7 @@
 # OSbre
 Esteganografia
 # aaadf
- # fff
+ # fff344
 
 # 🔐 Cryptography
 
