@@ -6,17 +6,6 @@
 This repository is a comprehensive collection of everything related to **cryptography** — including books (in PDF), notes, algorithm implementations, academic papers, video courses, real-world applications, and much more. Designed for students, developers, and cybersecurity enthusiasts.
 > 📁 **Note:** All listed books are included in the repository in PDF format for educational purposes only.
 
----
-
-## 📌 Table of Contents
-
-- [📚 Books (PDF)](#-books-pdf)
-- [🧠 Notes and Summaries](#-notes-and-summaries)
-- [💻 Algorithm Implementations](#-algorithm-implementations)
-- [🧮 Math Behind Cryptography](#-math-behind-cryptography)
-- [🌍 Real-World Applications](#-real-world-applications)
-- [🤝 Contribution Guidelines](#-contribution-guidelines)
-- [📬 Contact](#-contact)
 
 
 
