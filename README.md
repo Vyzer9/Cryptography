@@ -1,9 +1,8 @@
 # OSbre
 Esteganografia
-12
+# aaadf
  # fff
-sss222
-22
+
 # 🔐 Cryptography
 
 <p align="left">
